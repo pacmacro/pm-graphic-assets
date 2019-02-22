@@ -1,2 +1,3 @@
-# pm-graphic-assets
- Graphic assets for the Pac Macro application.
+# Pac Macro Graphic Assets
+
+Graphic assets for the Pac Macro application.
